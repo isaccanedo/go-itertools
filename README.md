@@ -1,6 +1,6 @@
 # itertools
 
-Itertools is a tool kit to generate combinations and permutations of go slices. It works similar to python itertools.
+Itertools é um kit de ferramentas para gerar combinações e permutações de go slices. Funciona de forma semelhante ao python itertools.
 
 ## Installation
 
